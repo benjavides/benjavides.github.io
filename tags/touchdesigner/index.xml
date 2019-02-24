@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Benjavides</title>
-    <link>https://benjavides.github.io/</link>
-    <description>Recent content on Benjavides</description>
+    <title>Touchdesigner on Benjavides</title>
+    <link>https://benjavides.github.io/tags/touchdesigner/</link>
+    <description>Recent content in Touchdesigner on Benjavides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://benjavides.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://benjavides.github.io/tags/touchdesigner/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -41,26 +41,6 @@ En esta oportunidad la exposición tenía 6 temas.</description>
       <guid>https://benjavides.github.io/projects/realtime-style-transfer/</guid>
       <description>Cómo funciona: Capturo el video del Kinect en Touchdesigner, lo envío a través de spout a un programa que corre en consola y hace el style transfer. El resultado lo devuelvo a Touchdesigner usando spout. Al resultado le aplico la máscara que me entrega Kinect y altero la opacidad de esta máscara usando la posición del jugador en pantalla.
 Referencias: Para el style transfer usé Neural VJ con algunos estilos ya entrenados en la red.</description>
-    </item>
-    
-    <item>
-      <title>paranoia</title>
-      <link>https://benjavides.github.io/projects/paranoia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://benjavides.github.io/projects/paranoia/</guid>
-      <description>Equipo: Ezequiel Hara Duck, Brenda Taubin , Naiara Murguialday, Sebastián Baeza, Benjamín Benavides, Carolina Carrillo, Vladimir Vera, Yomara Espinosa, Ronald Heim, Álvaro Soto, Philippe Droguett, Alicia Vázquez, Javiera Vilches, Cristián Cristino, Ítalo Gallardo, Mauricio Vaca, Luis Torres, Romina Perazzo, Iván Figueroa y John Álvarez.
-Estoy suscrito al newsletter del GAM y por eso me llegó la siguiente invitación:
- “[…] Buscamos 20 residentes (entre 18 y 35 años) que se capacitarán en las herramientas necesarias para convertirse en directores y replicar la experiencia interactiva de la obra.</description>
-    </item>
-    
-    <item>
-      <title>sinusoidal</title>
-      <link>https://benjavides.github.io/projects/sinusoidal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://benjavides.github.io/projects/sinusoidal/</guid>
-      <description> </description>
     </item>
     
   </channel>

@@ -3,18 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://benjavides.github.io/tags/2018/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://benjavides.github.io/projects/amarillo-mareado/</loc>
+  </url>
+  
+  <url>
+    <loc>https://benjavides.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://benjavides.github.io/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjavides.github.io/projects/cuerpo-latinoamericano/</loc>
+  </url>
+  
+  <url>
+    <loc>https://benjavides.github.io/categories/experimentos/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjavides.github.io/categories/mapping/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjavides.github.io/categories/museo/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjavides.github.io/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjavides.github.io/projects/realtime-style-transfer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://benjavides.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjavides.github.io/categories/teatro/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjavides.github.io/tags/touchdesigner/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjavides.github.io/projects/paranoia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://benjavides.github.io/projects/sinusoidal/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Museo on Benjavides</title>
+    <link>https://benjavides.github.io/categories/museo/</link>
+    <description>Recent content in Museo on Benjavides</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://benjavides.github.io/categories/museo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cuerpo Latinoamericano</title>
+      <link>https://benjavides.github.io/projects/cuerpo-latinoamericano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benjavides.github.io/projects/cuerpo-latinoamericano/</guid>
+      <description>Concepto: Convergencia.
+Desarrollo: Benjamín Benavides, Convergencia y ModiFICA.
+Montaje: Ola Ftone.
+Apoyo musical: Franco Capelli y Martín Lira.
+La exposición es sobre el arte contemporáneo latinoamericano. En el mismo museo, junto al salón principal, está el “Espacio Activo” de la fundación Mustakis que complementa la exposición. Se hacen talleres para niños y se muestran instalaciones audiovisuales que ayudan a las personas a entender mejor la muestra principal.
+En esta oportunidad la exposición tenía 6 temas.</description>
+    </item>
+    
+  </channel>
+</rss>
