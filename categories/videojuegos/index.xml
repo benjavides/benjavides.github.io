@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videojuegos on Benjavides</title>
+    <link>benjavides.github.io/categories/videojuegos/</link>
+    <description>Recent content in Videojuegos on Benjavides</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="benjavides.github.io/categories/videojuegos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Salmonero Ninja</title>
+      <link>benjavides.github.io/projects/salmonero-ninja/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>benjavides.github.io/projects/salmonero-ninja/</guid>
+      <description>Equipo Benjamín Benavides, Nicolás Borie, Diego Cruz, Martín Lira y Joaquín Maldonado.
+Con el equipo de Inmersia VR participamos en la hackathon de videojuegos científicos LAPCERA 2017. A cada equipo le asignaron como contraparte un centro científico de algún lugar del país. A nosotros nos tocó el INCAR, un centro interdisciplinario de investigación acuicola en Concepción.
+Tuvimos 24 horas para desarrollar un prototipo de un videojuego científico y presentarlo.</description>
+    </item>
+    
+    <item>
+      <title>Ångström</title>
+      <link>benjavides.github.io/projects/%C3%A5ngstr%C3%B6m/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>benjavides.github.io/projects/%C3%A5ngstr%C3%B6m/</guid>
+      <description>Equipo: Benjamín Benavides, Camila Cumplido, Alejandro Durán.
+Plataforma: Hecho en Unity para celulares iOS y Android.
+Mecánica de juego: Endless runner (Salta para evitar chocar con trampas). Fue hecho usando como asset el 2D+3D Infinite Runner Engine de More Mountains.
+El jugador corre a distintas escalas de longitud: picómetros, angstroms, nanómetros.
+En el fondo se ven pasar objetos de la escala actual.
+Se pueden agarrar átomos y al lograr ciertas combinaciones gatillar poderes.</description>
+    </item>
+    
+    <item>
+      <title>Partículas Cósmicas</title>
+      <link>benjavides.github.io/projects/particulas-cosmicas/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>benjavides.github.io/projects/particulas-cosmicas/</guid>
+      <description> Equipo Benjamín Benavides, Alejandro Durán, Ignacio Pérez.
+Plataforma Hecho en Unity para el Development Kit 2 del Oculus Rift.
+Mecánica de juego Esquivar obstáculos inclinándose con el cuerpo y agarrar catalizadores para ir más rápido y ganar puntos.
+Fue hecho a partir del juego open source VR Space Tunnel.
+Videos          </description>
+    </item>
+    
+  </channel>
+</rss>

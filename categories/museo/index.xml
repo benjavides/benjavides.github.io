@@ -2,20 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Museo on Benjavides</title>
-    <link>https://benjavides.github.io/categories/museo/</link>
+    <link>benjavides.github.io/categories/museo/</link>
     <description>Recent content in Museo on Benjavides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://benjavides.github.io/categories/museo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="benjavides.github.io/categories/museo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Default</title>
+      <link>benjavides.github.io/projects/default/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>benjavides.github.io/projects/default/</guid>
+      <description>Página del proyecto: xdefault.cl
+Prensa: Disup, Qué Pasa
+  Equipo Investigación – Manuela Garretón, Tomás Ossandón.
+Asistente de investigación – Karina Highland.
+Composición musical y sonido – Pablo Garretón.
+Visualización – Roy Mcdonald.
+Programación de Interacción e Implementación – Benjamín Benavides, Esteban Sandoval.
+Practicante de diseño – Paulina Vasconcelo
+Proceso Fueron capturados 2 minutos de la actividad cerebral de un sujeto en estado de reposo con una resonancia magnética.</description>
+    </item>
+    
+    <item>
       <title>Cuerpo Latinoamericano</title>
-      <link>https://benjavides.github.io/projects/cuerpo-latinoamericano/</link>
+      <link>benjavides.github.io/projects/cuerpo-latinoamericano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benjavides.github.io/projects/cuerpo-latinoamericano/</guid>
+      <guid>benjavides.github.io/projects/cuerpo-latinoamericano/</guid>
       <description>Concepto: Convergencia.
 Desarrollo: Benjamín Benavides, Convergencia y ModiFICA.
 Montaje: Ola Ftone.

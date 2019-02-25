@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017 on Benjavides</title>
+    <link>benjavides.github.io/tags/2017/</link>
+    <description>Recent content in 2017 on Benjavides</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="benjavides.github.io/tags/2017/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Salmonero Ninja</title>
+      <link>benjavides.github.io/projects/salmonero-ninja/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>benjavides.github.io/projects/salmonero-ninja/</guid>
+      <description>Equipo Benjamín Benavides, Nicolás Borie, Diego Cruz, Martín Lira y Joaquín Maldonado.
+Con el equipo de Inmersia VR participamos en la hackathon de videojuegos científicos LAPCERA 2017. A cada equipo le asignaron como contraparte un centro científico de algún lugar del país. A nosotros nos tocó el INCAR, un centro interdisciplinario de investigación acuicola en Concepción.
+Tuvimos 24 horas para desarrollar un prototipo de un videojuego científico y presentarlo.</description>
+    </item>
+    
+    <item>
+      <title>Animated Bunny</title>
+      <link>benjavides.github.io/projects/animated-bunny/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>benjavides.github.io/projects/animated-bunny/</guid>
+      <description>Captura de movimiento hecha con Microsoft Kinect usando Brekel Probody v2. Modelado, rigging y renderizado en Blender 2.79.
+Imagen de referencia.
+Modelo low poly final.
+Luego de subdivision surface (3 iteraciones).
+Rigeado con Rigify
+Pelo hecho con sistema de partículas.
+La escena
+Renderizado usando Filmic Blender para el manejo de los colores en Cycles.</description>
+    </item>
+    
+    <item>
+      <title>Default</title>
+      <link>benjavides.github.io/projects/default/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>benjavides.github.io/projects/default/</guid>
+      <description>Página del proyecto: xdefault.cl
+Prensa: Disup, Qué Pasa
+  Equipo Investigación – Manuela Garretón, Tomás Ossandón.
+Asistente de investigación – Karina Highland.
+Composición musical y sonido – Pablo Garretón.
+Visualización – Roy Mcdonald.
+Programación de Interacción e Implementación – Benjamín Benavides, Esteban Sandoval.
+Practicante de diseño – Paulina Vasconcelo
+Proceso Fueron capturados 2 minutos de la actividad cerebral de un sujeto en estado de reposo con una resonancia magnética.</description>
+    </item>
+    
+  </channel>
+</rss>

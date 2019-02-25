@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3d on Benjavides</title>
+    <link>benjavides.github.io/categories/3d/</link>
+    <description>Recent content in 3d on Benjavides</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="benjavides.github.io/categories/3d/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Animated Bunny</title>
+      <link>benjavides.github.io/projects/animated-bunny/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>benjavides.github.io/projects/animated-bunny/</guid>
+      <description>Captura de movimiento hecha con Microsoft Kinect usando Brekel Probody v2. Modelado, rigging y renderizado en Blender 2.79.
+Imagen de referencia.
+Modelo low poly final.
+Luego de subdivision surface (3 iteraciones).
+Rigeado con Rigify
+Pelo hecho con sistema de partículas.
+La escena
+Renderizado usando Filmic Blender para el manejo de los colores en Cycles.</description>
+    </item>
+    
+  </channel>
+</rss>
