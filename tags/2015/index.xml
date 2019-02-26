@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2015 on Benjavides</title>
-    <link>benjavides.github.io/tags/2015/</link>
+    <link>https://benjavides.github.io/tags/2015/</link>
     <description>Recent content in 2015 on Benjavides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="benjavides.github.io/tags/2015/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://benjavides.github.io/tags/2015/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Partículas Cósmicas</title>
-      <link>benjavides.github.io/projects/particulas-cosmicas/</link>
+      <link>https://benjavides.github.io/projects/particulas-cosmicas/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>benjavides.github.io/projects/particulas-cosmicas/</guid>
+      <guid>https://benjavides.github.io/projects/particulas-cosmicas/</guid>
       <description> Equipo Benjamín Benavides, Alejandro Durán, Ignacio Pérez.
 Plataforma Hecho en Unity para el Development Kit 2 del Oculus Rift.
 Mecánica de juego Esquivar obstáculos inclinándose con el cuerpo y agarrar catalizadores para ir más rápido y ganar puntos.

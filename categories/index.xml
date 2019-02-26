@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Benjavides</title>
-    <link>benjavides.github.io/categories/</link>
+    <link>https://benjavides.github.io/categories/</link>
     <description>Recent content in Categories on Benjavides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="benjavides.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://benjavides.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>3d</title>
-      <link>benjavides.github.io/categories/3d/</link>
+      <link>https://benjavides.github.io/categories/3d/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>benjavides.github.io/categories/3d/</guid>
+      <guid>https://benjavides.github.io/categories/3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experimentos</title>
-      <link>benjavides.github.io/categories/experimentos/</link>
+      <link>https://benjavides.github.io/categories/experimentos/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>benjavides.github.io/categories/experimentos/</guid>
+      <guid>https://benjavides.github.io/categories/experimentos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping</title>
-      <link>benjavides.github.io/categories/mapping/</link>
+      <link>https://benjavides.github.io/categories/mapping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>benjavides.github.io/categories/mapping/</guid>
+      <guid>https://benjavides.github.io/categories/mapping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Museo</title>
-      <link>benjavides.github.io/categories/museo/</link>
+      <link>https://benjavides.github.io/categories/museo/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>benjavides.github.io/categories/museo/</guid>
+      <guid>https://benjavides.github.io/categories/museo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teatro</title>
-      <link>benjavides.github.io/categories/teatro/</link>
+      <link>https://benjavides.github.io/categories/teatro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>benjavides.github.io/categories/teatro/</guid>
+      <guid>https://benjavides.github.io/categories/teatro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video</title>
-      <link>benjavides.github.io/categories/video/</link>
+      <link>https://benjavides.github.io/categories/video/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>benjavides.github.io/categories/video/</guid>
+      <guid>https://benjavides.github.io/categories/video/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Videojuegos</title>
-      <link>benjavides.github.io/categories/videojuegos/</link>
+      <link>https://benjavides.github.io/categories/videojuegos/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>benjavides.github.io/categories/videojuegos/</guid>
+      <guid>https://benjavides.github.io/categories/videojuegos/</guid>
       <description></description>
     </item>
     
