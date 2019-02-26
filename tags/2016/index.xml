@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2016 on Benjavides</title>
-    <link>/tags/2016/</link>
+    <link>https://benjavides.github.io/tags/2016/</link>
     <description>Recent content in 2016 on Benjavides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/2016/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://benjavides.github.io/tags/2016/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ångström</title>
-      <link>/projects/%C3%A5ngstr%C3%B6m/</link>
+      <link>https://benjavides.github.io/projects/%C3%A5ngstr%C3%B6m/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/projects/%C3%A5ngstr%C3%B6m/</guid>
+      <guid>https://benjavides.github.io/projects/%C3%A5ngstr%C3%B6m/</guid>
       <description>Equipo: Benjamín Benavides, Camila Cumplido, Alejandro Durán.
 Plataforma: Hecho en Unity para celulares iOS y Android.
 Mecánica de juego: Endless runner (Salta para evitar chocar con trampas). Fue hecho usando como asset el 2D+3D Infinite Runner Engine de More Mountains.
@@ -27,10 +27,10 @@ Se pueden agarrar átomos y al lograr ciertas combinaciones gatillar poderes.</d
     
     <item>
       <title>Sally</title>
-      <link>/projects/sally-la-zapatilla-electrica/</link>
+      <link>https://benjavides.github.io/projects/sally-la-zapatilla-electrica/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/projects/sally-la-zapatilla-electrica/</guid>
+      <guid>https://benjavides.github.io/projects/sally-la-zapatilla-electrica/</guid>
       <description>Encargo: Hacer historia interactiva usando como plantilla “El viaje del héroe” de Campbell
 Para hacer la historia interactiva usé Eko Studio. Todo el video fue grabado y editado en una semana.
  </description>
@@ -38,10 +38,10 @@ Para hacer la historia interactiva usé Eko Studio. Todo el video fue grabado y 
     
     <item>
       <title>Experiencia Del Color</title>
-      <link>/projects/experiencia-del-color/</link>
+      <link>https://benjavides.github.io/projects/experiencia-del-color/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/projects/experiencia-del-color/</guid>
+      <guid>https://benjavides.github.io/projects/experiencia-del-color/</guid>
       <description>Fue una tarea para el curso &amp;ldquo;Medialab&amp;rdquo; dictado por Manuela Garretón.
 Encargo Construir algo que hiciera uso del siguiente circuito.
 El circuito armado.

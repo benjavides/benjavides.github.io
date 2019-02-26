@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Museo on Benjavides</title>
-    <link>/categories/museo/</link>
+    <link>https://benjavides.github.io/categories/museo/</link>
     <description>Recent content in Museo on Benjavides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/museo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://benjavides.github.io/categories/museo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Default</title>
-      <link>/projects/default/</link>
+      <link>https://benjavides.github.io/projects/default/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/projects/default/</guid>
+      <guid>https://benjavides.github.io/projects/default/</guid>
       <description>Página del proyecto: xdefault.cl
 Prensa: Disup, Qué Pasa
   Equipo Investigación – Manuela Garretón, Tomás Ossandón.
@@ -30,10 +30,10 @@ Proceso Fueron capturados 2 minutos de la actividad cerebral de un sujeto en est
     
     <item>
       <title>Cuerpo Latinoamericano</title>
-      <link>/projects/cuerpo-latinoamericano/</link>
+      <link>https://benjavides.github.io/projects/cuerpo-latinoamericano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/cuerpo-latinoamericano/</guid>
+      <guid>https://benjavides.github.io/projects/cuerpo-latinoamericano/</guid>
       <description>Concepto: Convergencia.
 Desarrollo: Benjamín Benavides, Convergencia y ModiFICA.
 Montaje: Ola Ftone.

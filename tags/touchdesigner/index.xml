@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Touchdesigner on Benjavides</title>
-    <link>/tags/touchdesigner/</link>
+    <link>https://benjavides.github.io/tags/touchdesigner/</link>
     <description>Recent content in Touchdesigner on Benjavides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/touchdesigner/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://benjavides.github.io/tags/touchdesigner/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Realtime Style Transfer</title>
-      <link>/projects/realtime-style-transfer/</link>
+      <link>https://benjavides.github.io/projects/realtime-style-transfer/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/projects/realtime-style-transfer/</guid>
+      <guid>https://benjavides.github.io/projects/realtime-style-transfer/</guid>
       <description>Cómo funciona: Capturo el video del Kinect en Touchdesigner, lo envío a través de spout a un programa que corre en consola y hace el style transfer. El resultado lo devuelvo a Touchdesigner usando spout. Al resultado le aplico la máscara que me entrega Kinect y altero la opacidad de esta máscara usando la posición del jugador en pantalla.
 Referencias: Para el style transfer usé Neural VJ con algunos estilos ya entrenados en la red.</description>
     </item>
     
     <item>
       <title>Default</title>
-      <link>/projects/default/</link>
+      <link>https://benjavides.github.io/projects/default/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/projects/default/</guid>
+      <guid>https://benjavides.github.io/projects/default/</guid>
       <description>Página del proyecto: xdefault.cl
 Prensa: Disup, Qué Pasa
   Equipo Investigación – Manuela Garretón, Tomás Ossandón.
@@ -40,19 +40,19 @@ Proceso Fueron capturados 2 minutos de la actividad cerebral de un sujeto en est
     
     <item>
       <title>Amarillo Mareado</title>
-      <link>/projects/amarillo-mareado/</link>
+      <link>https://benjavides.github.io/projects/amarillo-mareado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/amarillo-mareado/</guid>
+      <guid>https://benjavides.github.io/projects/amarillo-mareado/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Cuerpo Latinoamericano</title>
-      <link>/projects/cuerpo-latinoamericano/</link>
+      <link>https://benjavides.github.io/projects/cuerpo-latinoamericano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/cuerpo-latinoamericano/</guid>
+      <guid>https://benjavides.github.io/projects/cuerpo-latinoamericano/</guid>
       <description>Concepto: Convergencia.
 Desarrollo: Benjamín Benavides, Convergencia y ModiFICA.
 Montaje: Ola Ftone.

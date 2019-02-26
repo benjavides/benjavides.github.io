@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Benjavides</title>
-    <link>/tags/</link>
+    <link>https://benjavides.github.io/tags/</link>
     <description>Recent content in Tags on Benjavides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://benjavides.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2015</title>
-      <link>/tags/2015/</link>
+      <link>https://benjavides.github.io/tags/2015/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/2015/</guid>
+      <guid>https://benjavides.github.io/tags/2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2016</title>
-      <link>/tags/2016/</link>
+      <link>https://benjavides.github.io/tags/2016/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/2016/</guid>
+      <guid>https://benjavides.github.io/tags/2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2017</title>
-      <link>/tags/2017/</link>
+      <link>https://benjavides.github.io/tags/2017/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/2017/</guid>
+      <guid>https://benjavides.github.io/tags/2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2018</title>
-      <link>/tags/2018/</link>
+      <link>https://benjavides.github.io/tags/2018/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/2018/</guid>
+      <guid>https://benjavides.github.io/tags/2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blender</title>
-      <link>/tags/blender/</link>
+      <link>https://benjavides.github.io/tags/blender/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/blender/</guid>
+      <guid>https://benjavides.github.io/tags/blender/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinect</title>
-      <link>/tags/kinect/</link>
+      <link>https://benjavides.github.io/tags/kinect/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/kinect/</guid>
+      <guid>https://benjavides.github.io/tags/kinect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Touchdesigner</title>
-      <link>/tags/touchdesigner/</link>
+      <link>https://benjavides.github.io/tags/touchdesigner/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/touchdesigner/</guid>
+      <guid>https://benjavides.github.io/tags/touchdesigner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vr</title>
-      <link>/tags/vr/</link>
+      <link>https://benjavides.github.io/tags/vr/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/vr/</guid>
+      <guid>https://benjavides.github.io/tags/vr/</guid>
       <description></description>
     </item>
     

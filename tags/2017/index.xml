@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2017 on Benjavides</title>
-    <link>/tags/2017/</link>
+    <link>https://benjavides.github.io/tags/2017/</link>
     <description>Recent content in 2017 on Benjavides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/2017/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://benjavides.github.io/tags/2017/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Salmonero Ninja</title>
-      <link>/projects/salmonero-ninja/</link>
+      <link>https://benjavides.github.io/projects/salmonero-ninja/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/projects/salmonero-ninja/</guid>
+      <guid>https://benjavides.github.io/projects/salmonero-ninja/</guid>
       <description>Equipo Benjamín Benavides, Nicolás Borie, Diego Cruz, Martín Lira y Joaquín Maldonado.
 Con el equipo de Inmersia VR participamos en la hackathon de videojuegos científicos LAPCERA 2017. A cada equipo le asignaron como contraparte un centro científico de algún lugar del país. A nosotros nos tocó el INCAR, un centro interdisciplinario de investigación acuicola en Concepción.
 Tuvimos 24 horas para desarrollar un prototipo de un videojuego científico y presentarlo.</description>
@@ -24,10 +24,10 @@ Tuvimos 24 horas para desarrollar un prototipo de un videojuego científico y pr
     
     <item>
       <title>Animated Bunny</title>
-      <link>/projects/animated-bunny/</link>
+      <link>https://benjavides.github.io/projects/animated-bunny/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/projects/animated-bunny/</guid>
+      <guid>https://benjavides.github.io/projects/animated-bunny/</guid>
       <description>Captura de movimiento hecha con Microsoft Kinect usando Brekel Probody v2. Modelado, rigging y renderizado en Blender 2.79.
 Imagen de referencia.
 Modelo low poly final.
@@ -40,10 +40,10 @@ Renderizado usando Filmic Blender para el manejo de los colores en Cycles.</desc
     
     <item>
       <title>Default</title>
-      <link>/projects/default/</link>
+      <link>https://benjavides.github.io/projects/default/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/projects/default/</guid>
+      <guid>https://benjavides.github.io/projects/default/</guid>
       <description>Página del proyecto: xdefault.cl
 Prensa: Disup, Qué Pasa
   Equipo Investigación – Manuela Garretón, Tomás Ossandón.
